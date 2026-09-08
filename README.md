@@ -1,4 +1,15 @@
-# Tapas-Webtoon-Mangatoon-Toomics-Ripper-All-Languages-
+Webtoon - English, 中文 (繁體), ภาษาไทย, Indonesia, Español, Français, Deutsch
+
+Mangatoon - English, Indonesia, Tiếng Việt, Español, Português, ไทย, Français, Deutsch, Italiano, العربية
+
+Lalatoon - English, 中文(简体), 中文(繁體), Español(LA), Español(ES), Italiano, Português, Deutsch, Français, 日本語, 한국어
+
+Honeytoon - English, Français, Deutsch, Español, Português, Italiano, Chinese
+
+Toomics - English, 中文(简体), 中文(繁體), Español, Italiano, Português, Deutsch, Français, 日本語, ภาษาไทย, 한국어
+
+Toptoon - English, Korean, Chinese
+
 Help Keep This Userscript
 Updated and Running Smoothly
 With a Small Donation - https://buymeacoffee.com/ozler
