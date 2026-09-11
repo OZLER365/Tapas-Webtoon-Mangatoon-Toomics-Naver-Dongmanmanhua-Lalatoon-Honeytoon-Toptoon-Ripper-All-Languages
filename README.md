@@ -1,29 +1,46 @@
-Webtoon - English, 中文 (繁體), ภาษาไทย, Indonesia, Español, Français, Deutsch
+# Universal Webtoon & Comic Ripper
 
-Mangatoon - English, Indonesia, Tiếng Việt, Español, Português, ไทย, Français, Deutsch, Italiano, العربية
+A powerful, one-click Tampermonkey userscript to extract and download high-quality images from 9 major webcomic platforms across multiple languages[cite: 1, 2]. 
 
-Lalatoon - English, 中文(简体), 中文(繁體), Español(LA), Español(ES), Italiano, Português, Deutsch, Français, 日本語, 한국어
+## ✨ Key Features
 
-Honeytoon - English, Français, Deutsch, Español, Português, Italiano, Chinese
+* **Floating Draggable UI:** Easily access the download controls from a non-intrusive floating menu that can be dragged anywhere on the screen[cite: 2].
+* **Automated Folder Organization:** Automatically names and sorts individual downloaded images into separate folders based on the chapter title (note: ZIP generation is not supported)[cite: 1, 2].
+* **Concurrent Downloading:** Utilizes up to 4 parallel workers in the background to maximize download speed[cite: 2].
+* **Smart Auto-Scroll (Mangatoon VN):** Includes a dedicated "Auto Scroll" button specifically for `mangatooncom.vn` to ensure lazy-loaded images are fully rendered before extraction[cite: 2].
 
-Toomics - English, 中文(简体), 中文(繁體), Español, Italiano, Português, Deutsch, Français, 日本語, ภาษาไทย, 한국어
+## 🌐 Supported Platforms & Languages
 
-Toptoon - English, Korean, Chinese
+This script is configured to work across the global and regional subdomains of the following platforms[cite: 2]:
 
-Help Keep This Userscript
-Updated and Running Smoothly
-With a Small Donation - https://buymeacoffee.com/ozler
+| Platform | Supported Languages[cite: 1] |
+| :--- | :--- |
+| **Webtoon** | English, 中文 (繁體), ภาษาไทย, Indonesia, Español, Français, Deutsch |
+| **Mangatoon** | English, Indonesia, Tiếng Việt, Español, Português, ไทย, Français, Deutsch, Italiano, العربية |
+| **Lalatoon** | English, 中文(简体), 中文(繁體), Español(LA), Español(ES), Italiano, Português, Deutsch, Français, 日本語, 한국어 |
+| **Honeytoon** | English, Français, Deutsch, Español, Português, Italiano, Chinese |
+| **Toomics** | English, 中文(简体), 中文(繁體), Español, Italiano, Português, Deutsch, Français, 日本語, ภาษาไทย, 한국어 |
+| **Toptoon** | English, Korean, Chinese |
 
-Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
+*(Full support also included for Tapas, Naver, and Dongmanmanhua[cite: 2])*
 
-Greasyfork Userscripts - https://greasyfork.org/en/users/1553223-ozler365
+## 🚀 Installation & Usage
 
-For Queries or Feature Requests
-Review on Greasyfork or Email:
-devjk6918@gmail.com
+1. **Prerequisite:** Install a userscript manager. **Tampermonkey** is highly recommended[cite: 1].
+2. **Install the Script:** Download the latest version (v1.0.4) from my [Greasyfork Profile](https://greasyfork.org/en/users/1553223-ozler365)[cite: 1, 2].
+3. **Usage:** 
+   * Navigate to any supported comic chapter.
+   * Click the green **Extract & Download** button on the floating UI to queue and download the images[cite: 2].
+   * The UI will track your total image count, successful downloads, and failures in real-time[cite: 2].
 
-*This is for educational purpose, don't repost the downloaded images
+## ⚠️ Disclaimer
 
-zip is not supported but individual images will be downloading them in a separate folder
+**This script is strictly for educational purposes.** Please support the original creators and do not repost or distribute the downloaded images[cite: 1].
 
-Tamper Monkey recommended
+## ☕ Support & Contact
+
+If you want to help keep this userscript updated and running smoothly, consider supporting the development!
+
+* **Support my work:** [Buy Me a Coffee](https://buymeacoffee.com/ozler)[cite: 1]
+* **Explore my other projects:** [My GitHub Pages Website](https://ozler365.github.io/ozler-s-works-info/#/repositories)[cite: 1]
+* **Feedback:** Leave a review on Greasyfork or reach out directly for queries and feature requests at **devjk6918@gmail.com**[cite: 1].
