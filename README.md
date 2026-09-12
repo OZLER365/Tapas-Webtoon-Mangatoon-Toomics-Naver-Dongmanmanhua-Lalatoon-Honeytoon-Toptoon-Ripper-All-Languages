@@ -27,7 +27,7 @@ This script is configured to work across the global and regional subdomains of t
 ## 🚀 Installation & Usage
 
 1. **Prerequisite:** Install a userscript manager. **Tampermonkey** is highly recommended
-2. **Install the Script:** Download the latest version (v1.0.4) from my [Greasyfork Profile]([https://greasyfork.org/en/users/1553223-ozler365](https://greasyfork.org/en/scripts/594644-tapas-webtoon-mangatoon-toomics-naver-dongmanmanhua-lalatoon-honeytoon-toptoon-ripper-all-languages))
+2. **Install the Script:** Download the latest version (v1.0.4) from my [Greasyfork Profile](https://greasyfork.org/en/scripts/594644-tapas-webtoon-mangatoon-toomics-naver-dongmanmanhua-lalatoon-honeytoon-toptoon-ripper-all-languages)
 3. **Usage:** 
    * Navigate to any supported comic chapter.
    * Click the green **Extract & Download** button on the floating UI to queue and download the images
